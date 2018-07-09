@@ -1,0 +1,15 @@
+body {
+    margin:0;
+    padding: 0;
+}
+.header{
+    widows: 100px;
+    height: 50px;
+    background-color: black;
+}
+.postitemcontainer{
+    padding: 10px;
+}
+.postformcontainer{
+    padding: 10px;
+}
